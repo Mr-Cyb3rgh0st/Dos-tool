@@ -13,13 +13,14 @@
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/Mr-Cyb3rgh0st/Number-information
+https://github.com/Mr-Cyb3rgh0st/Dos-tool
+cd Dos-tool
 
 ```
 ### Run Tools
 
 ```bash
-numbertoinfo
+python dos.py (example.com)
 ```
 <div align="center">
 
